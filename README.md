@@ -47,5 +47,5 @@ ollama serve
 Botu başlatın:
 
 
-python bot.py
+python lbot.py
 Bot çalışmaya başladıktan sonra, Telegram üzerinden botunuza /kontrol komutunu girerek iş ilanlarını analiz etmeye başlayabilirsiniz.
